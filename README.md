@@ -43,6 +43,4 @@ Seven distinct SHA-256 values were documented from selected captured files: **tw
 
 The PDF contains architecture and collection details, Wazuh evidence, the IntrusionLabs comparison, and seven captured-file assessments, along with sources and important limitations.
 
-**[View the full report](AWS_Honeypot_Investigation_Revised.pdf)**
-
 > This repository contains research documentation only. It does not distribute captured malware samples, secrets, or raw unfiltered sensor logs.
