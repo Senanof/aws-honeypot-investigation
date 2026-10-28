@@ -2,7 +2,7 @@
 
 A hands-on security monitoring and threat investigation project built on AWS EC2. The environment used **Cowrie** to capture SSH interactions, **Dionaea** to collect activity against emulated services, and **Wazuh** to support log searching and analysis.
 
-**[Read the complete investigation report (PDF)](AWS_Honeypot_Investigation_Revised.pdf)**
+**[Read the complete investigation report (PDF)](Honeynet-invetigation.pdf)**
 
 ## Project overview
 
